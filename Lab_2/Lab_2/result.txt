@@ -1,0 +1,10 @@
+
+< 2repeatVALUE >< 2 k1  IDEN >< 2 EQL >< 2 LP >< 2 k1  IDEN >< 2 ITER1 >< 2 k2  IDEN >< 2 RP >< 2untilVALUE >< 2 k1  IDEN >< 2 ITER1 >< 2 k1  IDEN >< 2end line END >
+< 3repeatVALUE >< 3repeatVALUE >< 3 k2  IDEN >< 3 EQL >< 3 LP >< 3 k2  IDEN >< 3 ITER1 >< 3 k1  IDEN >< 3 RP >< 3untilVALUE >< 3 k1  IDEN >< 3 ITER1 >< 3 k2  IDEN >< 3untilVALUE >< 3 k1  IDEN >< 3 ITER1 >< 3 k1  IDEN >< 3end line END >
+< 4 k1  IDEN >< 4 EQL >
+< 5 k1  IDEN >< 5 EQL >< 5 k2  IDEN >< 5 ITER2 >< 5 k1  IDEN >< 5end line END >
+
+< 2repeatVALUE >< 2 k1  IDEN >< 2 EQL >< 2 LP >< 2 k1  IDEN >< 2 ITER1 >< 2 k2  IDEN >< 2 RP >< 2untilVALUE >< 2 k1  IDEN >< 2 ITER1 >< 2 k1  IDEN >< 2end line END >
+< 3repeatVALUE >< 3repeatVALUE >< 3 k2  IDEN >< 3 EQL >< 3 LP >< 3 k2  IDEN >< 3 ITER1 >< 3 k1  IDEN >< 3 RP >< 3untilVALUE >< 3 k1  IDEN >< 3 ITER1 >< 3 k2  IDEN >< 3untilVALUE >< 3 k1  IDEN >< 3 ITER1 >< 3 k1  IDEN >< 3end line END >
+< 4 k1  IDEN >< 4 EQL >
+< 5 k1  IDEN >< 5 EQL >< 5 k2  IDEN >< 5 ITER2 >< 5 k1  IDEN >< 5end line END >

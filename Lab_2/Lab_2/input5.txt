@@ -1,0 +1,5 @@
+repaatk1=(k1*k2)utiilk2+k2
+repeatk1=(k1*k2)untilk1*k1
+repeatrepeatk2=(k2*k1)untilk1*k2untilk1*k1
+k1=-k2+k1
+k1=k2+k1

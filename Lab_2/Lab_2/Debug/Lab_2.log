@@ -1,0 +1,4 @@
+﻿  Lab_2.cpp
+c:\users\user\onedrive\рабочий стол\ti\lab_2\lab_2\lab_2.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\onedrive\рабочий стол\ti\lab_2\lab_2\lab_2.cpp(207): warning C4715: 'get_token': not all control paths return a value
+  Lab_2.vcxproj -> C:\Users\User\OneDrive\Рабочий стол\TI\Lab_2\Debug\Lab_2.exe
